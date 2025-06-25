@@ -1,0 +1,6 @@
+# replicate.yaml
+name: whatsapp-bot-trained
+version: "1.0"
+python: "3.10"
+run:
+  command: python predict.py 
