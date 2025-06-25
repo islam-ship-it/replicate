@@ -1,8 +1,0 @@
-_pycache_/
-*.pyc
-*.pyo
-*.pyd
-.env
-.DS_Store
-.ipynb_checkpoints
-*.sqlite3
