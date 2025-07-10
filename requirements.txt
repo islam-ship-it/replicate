@@ -1,5 +1,0 @@
-transformers==4.39.3
-torch==2.2.2
-scipy==1.12.0
-scikit-learn
-jsonlines
